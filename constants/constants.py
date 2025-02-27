@@ -1,0 +1,22 @@
+# keywords_to_interest: Diccionario que mapea palabras clave a intereses
+keyword_to_interest = {
+    "mindfulness": "bienestar mental",
+    "terapia": "bienestar mental",
+    "relajación": "bienestar mental",
+    "ejercicio": "deportes",
+    "entrenamiento": "deportes",
+    "rendimiento": "deportes",
+    "deporte": "deportes",
+    "desarrollo": "desarrollo personal",
+    "crecimiento": "desarrollo personal",
+    "familia": "familia",
+    "juguetes": "familia",
+    "bienestar": "familia",
+    "mascotas": "mascotas",
+    "cuidado": "salud",
+    "salud": "salud",
+    "dieta": "nutrición",
+    "alimentación": "nutrición",
+    "suplementos": "nutrición",
+    "fitness": "nutrición",
+}
