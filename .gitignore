@@ -11,12 +11,7 @@ src/__pycache__/
 
 # don´t ignore gitkeep files for empty folders
 data/*
-!data/raw/
-!data/processed/
-data/raw/*
-!data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
+!data/.gitkeep
 # Node artifact files
 node_modules/
 dist/
